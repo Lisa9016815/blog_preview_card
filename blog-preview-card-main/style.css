@@ -79,6 +79,11 @@ body {
   height: 32px;
 }
 
+.attribution {
+  position: fixed;
+  bottom: 0;
+}
+
 @media screen and (min-width: 375px) {
   .card-container {
     width: 394px;
